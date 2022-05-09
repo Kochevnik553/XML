@@ -1,1 +1,11 @@
-
+<?xml version="1.1" encoding="UTF-8"?>
+<BugReport>
+  <ID>00000000000001</ID>
+  <Title>Insert title</Title>
+  <Steptoreproduce>Insert steps</Steptoreproduce>
+  <Actualresult>Indicate actual result</Actualresult>
+  <Expectedresult>Indicate expected result</Expectedresult>
+  <Severity>Choose severity</Severity>
+  <Pryority>Choose priority</Pryority>
+  <Author>Check yourself</Author>
+</BugReport>
