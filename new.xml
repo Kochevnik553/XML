@@ -1,2 +1,9 @@
-
-
+<?xml version="1.1" encoding="UTF-8"?>
+<contact-info>
+    <FName>Bogdan</FName>
+    <SName>Kozlov</SName>
+    <MName>Gennad'evich</MName>
+    <Age>29</Age>
+    <Pets>0</Pets>
+    <ExpPay>1200 - 3000 + USD</ExpPay>
+</contact-info>
