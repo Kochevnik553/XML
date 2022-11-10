@@ -1,6 +1,0 @@
-First name: Bogdan;
-Second name: Kozlov;
-Surname: Gennad'evich;
-Age: 30;
-Pets: 0;
-Salary: 2500 - 3000+ USD
