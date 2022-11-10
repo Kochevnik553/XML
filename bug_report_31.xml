@@ -1,8 +1,15 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <bugreport>
-    <Movie>They Fought for Their Country</Movie>
-        <TVshow>The Expanse and The Terminal list</TVshow>
-        <Food>Buckweat with meat</Food>
-        <Season>Summer and Winter</Season>
-        <Country>Georgia and Spain</Country>
+    <ID>01</ID>
+        <title>Example of title br</title>
+        <Environment>Example of environment</Environment>
+        <Precondition>Example of Precondition</Precondition>
+        <STR>Example of STR</STR>
+        <AR>Example of AR</AR>
+        <ER>Example ER</ER>
+        <Severity>Critical,major,medium,minor</Severity>
+        <Priority>ASAP,major,medium,minor</Priority>
+        <Attachments>Screencast,Screenshot</Attachments>
+        <Author>Kozlov Bogdan</Author>
+        <Date>xx.xx.xxxx</Date>
 </bugreport>
